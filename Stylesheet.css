@@ -1,0 +1,183 @@
+nav{
+    padding-left: 20%;
+    padding-right: 20%;
+    color: white;
+    
+}
+
+.buttond_s{
+    margin-top: 10px;
+    
+}
+
+a:hover{
+    color: white;
+}
+
+body{
+    background-color: #ffffff;
+ }
+
+header{
+   
+    background-color: #19283f;
+    padding-bottom: 20px;
+}
+
+.button_head{
+    margin-top: 55px;
+    margin-bottom: 35px;
+    font-weight: bold;
+}
+
+#text_header{
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+#text_hed2{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #a8b9c0;
+}
+
+.mol{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#portfolio{
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #eff7fa;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+#about{
+    margin-top: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #ffffff;
+    text-align: justify;
+    color: #a8b9c0;
+
+}
+h2{
+   
+    color: black;
+    text-align: center;
+    
+}
+
+
+h1{
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    margin-bottom: 40px;
+}
+
+.buttond_about{
+    margin-top: 25px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.im_mac{
+    width:"700px";
+    margin-top: 60px;
+
+}
+
+.rw1{
+    margin-top: 20px;
+}
+.rw1:hover{
+    cursor: pointer;
+}
+.rw2:hover{
+    cursor: pointer;
+}
+.rw2{
+    margin-top: 20px;
+}
+
+#foot_a:hover{
+    color: #a8b9c0;
+    cursor: pointer;
+}
+
+.foot_rw{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.fb{
+    margin:  10px;
+    width: 40px;
+}
+
+.inst{
+    margin:  10px;
+    width: 30px;
+}
+footer{
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 20px;
+   
+    
+    background-color: #19283f;
+    color: white;
+    
+}
+
+
+.button_head{
+    
+    font-size:15px;  
+    text-decoration: none; 
+    padding-top:11px;
+    padding-bottom:11px;
+    margin-left: 45%;
+    margin-right: 45%;
+    color:#ffc501; 
+    background-color:#ff3150; 
+    border-radius:20px;  
+}
+
+
+.button_head:hover {
+    cursor:pointer; 
+    transition: 3s;
+    background-color:cornflowerblue;
+    color: #ffffff;
+
+}
+
+
+
+
+
+
+
+.box {
+    -webkit-transform: translate(0, 0);
+    -webkit-transition: -webkit-transform 3000ms;
+  
+    transform: translate(0, 0);
+    transition: transform 3000ms;
+  }
+  
+  .box.move {
+    -webkit-transform: translate(10px, 10px);
+    transform: translate(20px, 20px);
+  }
